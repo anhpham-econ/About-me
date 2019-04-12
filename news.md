@@ -6,7 +6,8 @@ title: News
 
 - 04/2019, my joint paper, "Natural Disasters and Mental Health: A Quantile Approach", with [Nadezhda Baryshnikova](https://www.adelaide.edu.au/directory/nadezhda.baryshnikova) is conditionally accepted for publication at *Economics Letters*
 - 02/2019, won the [2019 Early Career Researcher Fellowship](https://www.adelaide.edu.au/professions/intranet/news/list/2019/02/26/faculty-research-funding-scheme-results) (with [Lyrian Daniel](https://researchers.adelaide.edu.au/profile/lyrian.daniel))
-- 10/2018, my joint paper, "Does the Rice for Poor subsidy reduce child marriage?", with [Nadezhda Baryshnikova](https://www.adelaide.edu.au/directory/nadezhda.baryshnikova) and [Nicholas Sim](https://sites.google.com/view/nicholassim/home), [Does the Rice for Poor subsidy reduce child marriage?](https://ies.keio.ac.jp/upload/20181026appliedpaper-1.pdf), was presented by  at the Applied Economics Workshop, the Keio University. 
+- 10/2018, my joint paper, "Does the Rice for Poor subsidy reduce child marriage?", with [Nadezhda Baryshnikova](https://www.adelaide.edu.au/directory/nadezhda.baryshnikova) (presenting author) and [Nicholas Sim](https://sites.google.com/view/nicholassim/home), was presented at the Applied Economics Workshop, the Keio University. 
+
 - 06/2018, appointed as a Research Fellow at [Healthy Cities Research Group](https://architecture.adelaide.edu.au/research/housing-and-healthy-cities)
 - 12/2017, presented at the Aim for the Stars, School of Economics, University of Adelaide
 - 04/2017, presented at the 8th Australasian Workshop on Econometrics and Health Economics
