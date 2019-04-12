@@ -18,3 +18,4 @@ title: Research
 # Research in progress
 - *More than just climate*, with [Lyrian Daniel](https://researchers.adelaide.edu.au/profile/lyrian.daniel), [Emma Baker](https://researchers.adelaide.edu.au/profile/emma.baker) and Andrew Beer
 - *Income-based mandates on the demand for private hospital insurance and its dynamics*, with [Terence Cheng](https://terencechaicheng.wordpress.com/), Thomas Buchmueller and Kevin Staub 
+- *Happiness and Refugees Settlement*, with [Firmin Doko Tchatoka](https://researchers.adelaide.edu.au/profile/firmin.dokotchatoka) and [Nadezhda Baryshnikova](https://www.adelaide.edu.au/directory/nadezhda.baryshnikova)
