@@ -3,8 +3,8 @@
 Anh's research interests are in the areas of Development Economics and Applied Econometrics. Her current research activities are in understanding how social and economic public policy can be enhanced by evidence generated from the application of novel analytical strategies to diverse data. She has expertise in econometric modelling using nationally representative household-based longitudinal survey (e.g. HILDA, IFLS) and large-scale administrative dataset (e.g. PIA)
 
 # Education
-- PhD in Economics, University of Adelaide
-- Master of Economics, University of Adelaide
+- PhD in Economics, University of Adelaide (2012-2016)
+- Master of Economics, University of Adelaide (2011-2012)
 
 # News
 - 04/2019, my joint paper, "Natural Disasters and Mental Health: A Quantile Approach", with [Nadezhda Baryshnikova](https://www.adelaide.edu.au/directory/nadezhda.baryshnikova) is accepted for publication at *Economics Letters*.
