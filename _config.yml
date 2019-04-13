@@ -8,4 +8,4 @@ github_username:  anhpham-econ
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: minimal
