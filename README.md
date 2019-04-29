@@ -7,7 +7,7 @@ Anh's research interests are in the areas of Development Economics and Applied E
 - Master of Economics, University of Adelaide (2011-2012)
 
 # News
-- 04/2019, my joint paper, "Natural Disasters and Mental Health: A Quantile Approach", with [Nadezhda Baryshnikova](https://www.adelaide.edu.au/directory/nadezhda.baryshnikova) is accepted for publication at *Economics Letters*.
+- 04/2019, my joint paper, "Natural Disasters and Mental Health: A Quantile Approach", with [Nadezhda Baryshnikova](https://www.adelaide.edu.au/directory/nadezhda.baryshnikova) is published [online](https://www.sciencedirect.com/science/article/pii/S0165176519301387) at *Economics Letters*.
 - 02/2019, won the [2019 Early Career Researcher Fellowship](https://www.adelaide.edu.au/professions/intranet/news/list/2019/02/26/faculty-research-funding-scheme-results) (with [Lyrian Daniel](https://researchers.adelaide.edu.au/profile/lyrian.daniel)).
 - 10/2018, my joint paper, "Does the Rice for Poor subsidy reduce child marriage?", with [Nadezhda Baryshnikova](https://www.adelaide.edu.au/directory/nadezhda.baryshnikova) (presenting author) and [Nicholas Sim](https://sites.google.com/view/nicholassim/home), was presented at the Applied Economics Workshop, the Keio University. 
 - 06/2018, appointed as a Research Fellow at [Healthy Cities Research Group](https://architecture.adelaide.edu.au/research/housing-and-healthy-cities).
