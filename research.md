@@ -5,7 +5,7 @@ title: Research
 
 
 # Publications
-- "Natural Disasters and Mental Health: A Quantile Approach", with [Nadezhda Baryshnikova](https://www.adelaide.edu.au/directory/nadezhda.baryshnikova), accepted, *Economics Letters*, 04/2019.
+- ["Natural Disasters and Mental Health: A Quantile Approach"](https://www.sciencedirect.com/science/article/pii/S0165176519301387), with [Nadezhda Baryshnikova](https://www.adelaide.edu.au/directory/nadezhda.baryshnikova), accepted, *Economics Letters*, 04/2019.
 - ["Does Political and Economic Inequality affect Institutional Quality?"](https://onlinelibrary.wiley.com/doi/full/10.1111/1475-4932.12246), with [Nadezhda Baryshnikova](https://www.adelaide.edu.au/directory/nadezhda.baryshnikova) and Maria Wihardja, The *Economic Record*, 92(297), pp 190-208, 2016.
 
 # Working papers
