@@ -4,6 +4,7 @@ Anh's current research activities are in understanding how social and economic p
 
 
 # News
+- 05/2019, my joint paper, "Shipping Cost and Development of the LLDCs: Panel Evidence from the Common Correlated Effects Approach", with [Nicholas Sim](https://sites.google.com/view/nicholassim/home) is accepted for publication at World Economy.
 - 04/2019, my joint paper, "Natural Disasters and Mental Health: A Quantile Approach", with [Nadezhda Baryshnikova](https://www.adelaide.edu.au/directory/nadezhda.baryshnikova) is published [online](https://www.sciencedirect.com/science/article/pii/S0165176519301387) at *Economics Letters*.
 - 02/2019, won the [2019 Early Career Researcher Fellowship](https://www.adelaide.edu.au/professions/intranet/news/list/2019/02/26/faculty-research-funding-scheme-results) (with [Lyrian Daniel](https://researchers.adelaide.edu.au/profile/lyrian.daniel)).
 - 10/2018, my joint paper, "Does the Rice for Poor subsidy reduce child marriage?", with [Nadezhda Baryshnikova](https://www.adelaide.edu.au/directory/nadezhda.baryshnikova) (presenting author) and [Nicholas Sim](https://sites.google.com/view/nicholassim/home), was presented at the Applied Economics Workshop, the Keio University. 
