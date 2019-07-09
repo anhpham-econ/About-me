@@ -8,6 +8,7 @@ title: Research
 - "New evidence on mental health and housing affordability in cities: A quantile regression approach", with [Emma Baker](https://researchers.adelaide.edu.au/profile/emma.baker), [Lyrian Daniel](https://researchers.adelaide.edu.au/profile/lyrian.daniel) and [Rebecca Bentley](https://www.findanexpert.unimelb.edu.au/display/person99174), revised and resubmitted, 06/2019.
 - "Cold housing: evidence, risk and vulnerability", with [Lyrian Daniel](https://researchers.adelaide.edu.au/profile/lyrian.daniel), [Emma Baker](https://researchers.adelaide.edu.au/profile/emma.baker) and Andrew Beer, minor revision, 06/2019.
 - *More than just climate*, with [Lyrian Daniel](https://researchers.adelaide.edu.au/profile/lyrian.daniel), [Emma Baker](https://researchers.adelaide.edu.au/profile/emma.baker) and Andrew Beer, Research in progress.
+- *Dynamics of household demand for renewable energy infrastructure*, with [Lyrian Daniel](https://researchers.adelaide.edu.au/profile/lyrian.daniel), Research in progress.
 
 # International Trade and Development
 - "Shipping Cost and Development of the LLDCs: Panel Evidence from the Common Correlated Effects Approach", with [Nicholas Sim](https://sites.google.com/view/nicholassim/home), accepted, *World Economy*, 05/2019.
