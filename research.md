@@ -20,5 +20,6 @@ title: Research
 - ["Does the Rice for Poor subsidy reduce child marriage?"](https://ies.keio.ac.jp/upload/20181026appliedpaper-1.pdf), with [Nadezhda Baryshnikova](https://www.adelaide.edu.au/directory/nadezhda.baryshnikova) and [Nicholas Sim](https://sites.google.com/view/nicholassim/home), 10/2018.
 
 # Health Economics
+- "Population Diversity, Trust, and the Transmission of HIV/AIDS in Sub-Saharan Africa", with Pide Lun and [Nicholas Sim](https://sites.google.com/view/nicholassim/home)
 - *Income-based mandates on the demand for private hospital insurance and its dynamics*, with [Terence Cheng](https://terencechaicheng.wordpress.com/), Thomas Buchmueller and Kevin Staub, Research in progress. 
 - *Happiness and Refugees Settlement*, with [Firmin Doko Tchatoka](https://researchers.adelaide.edu.au/profile/firmin.dokotchatoka) and [Nadezhda Baryshnikova](https://researchers.adelaide.edu.au/profile/nadezhda.baryshnikova), Research in progress.
