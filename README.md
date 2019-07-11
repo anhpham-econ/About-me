@@ -2,7 +2,10 @@
 
 Anh's current research activities are in understanding how social and economic public policy can be enhanced by evidence generated from the application of novel analytical strategies to diverse data. She has expertise in econometric modelling using nationally representative household-based longitudinal survey (e.g. HILDA, IFLS) and large-scale administrative dataset (e.g. PIA)
 
+# Research opportunities
+If you are undergraduate students and interested in pursuing research studies in the near future, you can apply for the Adelaide Summer Research Scholarship (ASRS) program. Possible projects can be found [here](https://ecms.adelaide.edu.au/news/list/2019/07/08/adelaide-summer-research-scholarships-applications-now-open?fbclid=IwAR1ndWKVIT9VGjX_XaXLM8Mc6sL0ES64MXqjBBBkx5UMJ6_DvZLVqTB_8gM) and [here](https://www.adelaide.edu.au/professions/students/summer-research-scholarships). Deadline **5pm Friday 20 September 2019**
 
+(https://www.adelaide.edu.au/professions/students/summer-research-scholarships#smart-cities-for-economic-development-a-systematic-review)
 # News
 - 05/2019, my paper, "Shipping Cost and Development of the LLDCs: Panel Evidence from the Common Correlated Effects Approach", with [Nicholas Sim](https://sites.google.com/view/nicholassim/home) is accepted for publication at World Economy.
 - 04/2019, my paper, "Natural Disasters and Mental Health: A Quantile Approach", with [Nadezhda Baryshnikova](https://researchers.adelaide.edu.au/profile/nadezhda.baryshnikova) is published [online](https://www.sciencedirect.com/science/article/pii/S0165176519301387) at *Economics Letters*.
