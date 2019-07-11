@@ -4,9 +4,12 @@ title: Research
 ---
 
 *Ungated working paper versions of my published papers can be downloaded, where available*
+
 <details>
-           <summary># Housing</summary>
-           <p>["Natural Disasters and Mental Health: A Quantile Approach"](https://www.sciencedirect.com/science/article/pii/S0165176519301387), with [Nadezhda Baryshnikova](https://researchers.adelaide.edu.au/profile/nadezhda.baryshnikova), *Economics Letters*, 180, pp 62-66, 2019. 
+<summary>
+<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Housing</a>    
+</summary>
+["Natural Disasters and Mental Health: A Quantile Approach"](https://www.sciencedirect.com/science/article/pii/S0165176519301387), with [Nadezhda Baryshnikova](https://researchers.adelaide.edu.au/profile/nadezhda.baryshnikova), *Economics Letters*, 180, pp 62-66, 2019. 
 - **Abstract**: This article investigates heterogeneity in the effect of experiencing natural disasters on mental health. Using Australian longitudinal data, we find that home owners generally show a reduction in mental health score after a disaster. There is a strong negative effect in the lowest two quantiles of the distribution for non-owners.
 - **Ungated working paper**: [Here](https://github.com/anhpham-econ/about-me/blob/master/papers/Disaster_MentalHealth.pdf).
 - **Early working paper**: [Here](https://ideas.repec.org/p/adl/wpaper/2018-13.html)
