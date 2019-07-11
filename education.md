@@ -5,6 +5,7 @@ title: Education
 
 # Education
 - PhD in Economics, University of Adelaide (2012-2016)
+-- Award: 
 - Master of Economics, University of Adelaide (2011-2012)
 
 # Training
