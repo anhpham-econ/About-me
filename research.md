@@ -21,7 +21,7 @@ title: Research
 
 # International Trade and Development
 "Shipping Cost and Development of the LLDCs: Panel Evidence from the Common Correlated Effects Approach", with [Nicholas Sim](https://sites.google.com/view/nicholassim/home), accepted, *World Economy*, 05/2019.
-- Abstract: We estimate the impact of shipping cost on development for landlocked developing countries (LLDCs). Since container trade is important to them, we construct a country-specific measure of shipping cost, called \textit{HarpexCost}, which combines the global cost of container shipping with information on how exposed to container shipping each LLDC is. We employ the Common Correlated Effects (CCE) estimator of Pesaran (2006) to first estimate the impact of *HarpexCost* on the LLDCs' development, and then recover the actual impact of shipping cost from these estimates. Overall, we observe that shipping cost has large negative effects on the LLDCs. Building upon these results, we provide new estimates on the cost of landlockedness and how trade benefits their development.
+- Abstract: We estimate the impact of shipping cost on development for landlocked developing countries (LLDCs). Since container trade is important to them, we construct a country-specific measure of shipping cost, called *HarpexCost*, which combines the global cost of container shipping with information on how exposed to container shipping each LLDC is. We employ the Common Correlated Effects (CCE) estimator of Pesaran (2006) to first estimate the impact of *HarpexCost* on the LLDCs' development, and then recover the actual impact of shipping cost from these estimates. Overall, we observe that shipping cost has large negative effects on the LLDCs. Building upon these results, we provide new estimates on the cost of landlockedness and how trade benefits their development.
 
 "Do Exports Affect Urbanization in Sub-Saharan Africa? Evidence From The Baltic Dry Index And Panel Regressions With Cross-Sectional Dependence", with [Nicholas Sim](https://sites.google.com/view/nicholassim/home)
 
@@ -33,13 +33,15 @@ title: Research
 ["Does Political and Economic Inequality affect Institutional Quality?"](https://onlinelibrary.wiley.com/doi/full/10.1111/1475-4932.12246), with [Nadezhda Baryshnikova](https://researchers.adelaide.edu.au/profile/nadezhda.baryshnikova) and Maria Wihardja, The *Economic Record*, 92(297), pp 190-208, 2016.
 
 "Panel Data Quantile Regression with Two-Way Fixed Effects",  with [Nicholas Sim](https://sites.google.com/view/nicholassim/home), under review, 03/2019.
+- Abstract: We construct a two-way fixed effect quantile regression estimator by applying the one-way fixed effect quantile regression technique of Canay (2011). We explore the Monte Carlo properties of this estimator under the assumption that the data generating process may contain a one- or two-way fixed effect. We apply this estimator to a panel data with country and year fixed effects to see if trade cost, as proxied by the Baltic Dry Index, affects the trade and income of least developed countries heterogeneously.
 
 "Does the Rice for Poor subsidy reduce child marriage?", with [Nadezhda Baryshnikova](https://www.adelaide.edu.au/directory/nadezhda.baryshnikova) and [Nicholas Sim](https://sites.google.com/view/nicholassim/home), 10/2018.
-- Abstract:
-- Ungated working paper: [Here](https://ies.keio.ac.jp/upload/20181026appliedpaper-1.pdf)
+- Abstract: According to UNICEF, reducing child marriage is seen as one of the essentials to women’s empowerment and wellbeing, ending the intergenerational cycle of poverty and rights violation. In this paper, we study whether a food subsidy (Raskin) reduces child marriage occurrence using a panel life survey from Indonesia. Modelling treatment assignment with Coarsened Exact Matching and Diffs-in-Diffs, we show that the unconditional rice subsidy significantly reduces the likelihood of marrying as a child.
+- Preliminary Draft: [Here](https://ies.keio.ac.jp/upload/20181026appliedpaper-1.pdf)
 
 # Health Economics
 "Population Diversity, Trust, and the Transmission of HIV/AIDS in Sub-Saharan Africa", with Pide Lun and [Nicholas Sim](https://sites.google.com/view/nicholassim/home)
+- Abstract: We provide new evidence that population genetic diversity can mitigate the transmission of HIV in sub-Saharan Africa. Using a difference-in-differences strategy, we exploit the fact that trade may increase HIV incidence, and demonstrate that HIV transmits more easily in countries that are more genetically homogeneous.
 
 *Income-based mandates on the demand for private hospital insurance and its dynamics*, with [Terence Cheng](https://terencechaicheng.wordpress.com/), Thomas Buchmueller and Kevin Staub, Research in progress. 
 
