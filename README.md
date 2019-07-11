@@ -6,9 +6,12 @@ Anh's current research activities are in understanding how social and economic p
 If you are undergraduate students and interested in pursuing research studies in the near future, you can apply for the Adelaide Summer Research Scholarship (ASRS) program. Possible projects can be found [here](https://ecms.adelaide.edu.au/news/list/2019/07/08/adelaide-summer-research-scholarships-applications-now-open?fbclid=IwAR1ndWKVIT9VGjX_XaXLM8Mc6sL0ES64MXqjBBBkx5UMJ6_DvZLVqTB_8gM) and [here](https://www.adelaide.edu.au/professions/students/summer-research-scholarships). Deadline **5pm 20 September 2019**
 
 # News
-- 05/2019, my paper, "Shipping Cost and Development of the LLDCs: Panel Evidence from the Common Correlated Effects Approach", with [Nicholas Sim](https://sites.google.com/view/nicholassim/home) is accepted for publication at World Economy.
-- 04/2019, my paper, "Natural Disasters and Mental Health: A Quantile Approach", with [Nadezhda Baryshnikova](https://researchers.adelaide.edu.au/profile/nadezhda.baryshnikova) is published [online](https://www.sciencedirect.com/science/article/pii/S0165176519301387) at *Economics Letters*.
-- 02/2019, won the [2019 Early Career Researcher Fellowship](https://www.adelaide.edu.au/professions/intranet/news/list/2019/02/26/faculty-research-funding-scheme-results) (with [Lyrian Daniel](https://researchers.adelaide.edu.au/profile/lyrian.daniel)).
+**2019**
+- May: my paper, "Shipping Cost and Development of the LLDCs: Panel Evidence from the Common Correlated Effects Approach", with [Nicholas Sim](https://sites.google.com/view/nicholassim/home) is accepted for publication at World Economy.
+- April: my paper, "Natural Disasters and Mental Health: A Quantile Approach", with [Nadezhda Baryshnikova](https://researchers.adelaide.edu.au/profile/nadezhda.baryshnikova) is published [online](https://www.sciencedirect.com/science/article/pii/S0165176519301387) at *Economics Letters*.
+- February: won the [2019 Early Career Researcher Fellowship](https://www.adelaide.edu.au/professions/intranet/news/list/2019/02/26/faculty-research-funding-scheme-results) (with [Lyrian Daniel](https://researchers.adelaide.edu.au/profile/lyrian.daniel)).
+
+**2018**
 - 06/2018, appointed as a Research Fellow at [Healthy Cities Research Group](https://architecture.adelaide.edu.au/research/housing-and-healthy-cities).
 - 12/2017, presented at the Aim for the Stars, School of Economics, University of Adelaide.
 - 04/2017, presented at the 8th Australasian Workshop on Econometrics and Health Economics.
