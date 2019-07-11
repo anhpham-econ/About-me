@@ -30,7 +30,9 @@ title: Research
 - Ungated working paper: [Here](https://ideas.repec.org/p/adl/wpaper/2015-15.html)
 
 # Panel Data Applications
-["Does Political and Economic Inequality affect Institutional Quality?"](https://onlinelibrary.wiley.com/doi/full/10.1111/1475-4932.12246), with [Nadezhda Baryshnikova](https://researchers.adelaide.edu.au/profile/nadezhda.baryshnikova) and Maria Wihardja, The *Economic Record*, 92(297), pp 190-208, 2016.
+["Does Political and Economic Inequality affect Institutional Quality?"](https://onlinelibrary.wiley.com/doi/full/10.1111/1475-4932.12246), with [Nadezhda Baryshnikova](https://researchers.adelaide.edu.au/profile/nadezhda.baryshnikova) and [Maria Wihardja](https://blogs.worldbank.org/team/maria-monica-wihardja), The *Economic Record*, 92(297), pp 190-208, 2016.
+- Abstract: We study how inequality, democracy and economic development affect institutions in a dynamic panel model using data for 78 countries from 1984 to 2006. We suggest a model that assumes the sluggish adjustment of institutional quality and the interplay between the key explanatory variables. We find that democracy has a non‐linear effect on government stability and military involvement in politics. This effect depends on inequality and GDP per capita. Inequality matters for law and order and has a non‐linear effect as well. However, the results for wealth effect are mixed.
+
 
 "Panel Data Quantile Regression with Two-Way Fixed Effects",  with [Nicholas Sim](https://sites.google.com/view/nicholassim/home), under review, 03/2019.
 - Abstract: We construct a two-way fixed effect quantile regression estimator by applying the one-way fixed effect quantile regression technique of Canay (2011). We explore the Monte Carlo properties of this estimator under the assumption that the data generating process may contain a one- or two-way fixed effect. We apply this estimator to a panel data with country and year fixed effects to see if trade cost, as proxied by the Baltic Dry Index, affects the trade and income of least developed countries heterogeneously.
