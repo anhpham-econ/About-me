@@ -3,7 +3,7 @@ layout: page
 title: Education
 ---
 
-# Education
+# Post-graduate degrees
 PhD in Economics, University of Adelaide (2012-2016)
 - **Award**: Dean's Commendations for Doctoral Thesis Excellence
 - **Funding**: Adelaide Graduate Research Scholarship
