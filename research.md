@@ -5,10 +5,7 @@ title: Research
 
 *Ungated working paper versions of my published papers can be downloaded, where available*
 
-<details>
-<summary>
-<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Housing</a>    
-</summary>
+# Housing
 
 ["Natural Disasters and Mental Health: A Quantile Approach"](https://www.sciencedirect.com/science/article/pii/S0165176519301387), with [Nadezhda Baryshnikova](https://researchers.adelaide.edu.au/profile/nadezhda.baryshnikova), *Economics Letters*, 180, pp 62-66, 2019. 
 - **Abstract**: This article investigates heterogeneity in the effect of experiencing natural disasters on mental health. Using Australian longitudinal data, we find that home owners generally show a reduction in mental health score after a disaster. There is a strong negative effect in the lowest two quantiles of the distribution for non-owners.
@@ -22,9 +19,6 @@ title: Research
 *More than just climate*, with [Lyrian Daniel](https://researchers.adelaide.edu.au/profile/lyrian.daniel), [Emma Baker](https://researchers.adelaide.edu.au/profile/emma.baker) and Andrew Beer, Research in progress.
 
 *Dynamics of household demand for renewable energy infrastructure*, with [Lyrian Daniel](https://researchers.adelaide.edu.au/profile/lyrian.daniel), Research in progress.
-
-</details>
-
 
 
 # International Trade and Development
