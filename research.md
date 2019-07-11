@@ -20,21 +20,26 @@ title: Research
 *Dynamics of household demand for renewable energy infrastructure*, with [Lyrian Daniel](https://researchers.adelaide.edu.au/profile/lyrian.daniel), Research in progress.
 
 # International Trade and Development
-- "Shipping Cost and Development of the LLDCs: Panel Evidence from the Common Correlated Effects Approach", with [Nicholas Sim](https://sites.google.com/view/nicholassim/home), accepted, *World Economy*, 05/2019.
-- "Do Exports Affect Urbanization in Sub-Saharan Africa? Evidence From The Baltic Dry Index And Panel Regressions With Cross-Sectional Dependence", with [Nicholas Sim](https://sites.google.com/view/nicholassim/home)
-- "Child Mortality in the LDCs: The Role of Trade, Institutions and Environmental Quality", with [Faqin Lin](https://linfaqin.weebly.com/) and [Nicholas Sim](https://sites.google.com/view/nicholassim/home), School of Economics [Working Papers 2015-15](https://ideas.repec.org/p/adl/wpaper/2015-15.html), University of Adelaide, School of Economics.
+"Shipping Cost and Development of the LLDCs: Panel Evidence from the Common Correlated Effects Approach", with [Nicholas Sim](https://sites.google.com/view/nicholassim/home), accepted, *World Economy*, 05/2019.
+- Abstract: We estimate the impact of shipping cost on development for landlocked developing countries (LLDCs). Since container trade is important to them, we construct a country-specific measure of shipping cost, called \textit{HarpexCost}, which combines the global cost of container shipping with information on how exposed to container shipping each LLDC is. We employ the Common Correlated Effects (CCE) estimator of Pesaran (2006) to first estimate the impact of *HarpexCost* on the LLDCs' development, and then recover the actual impact of shipping cost from these estimates. Overall, we observe that shipping cost has large negative effects on the LLDCs. Building upon these results, we provide new estimates on the cost of landlockedness and how trade benefits their development.
+
+"Do Exports Affect Urbanization in Sub-Saharan Africa? Evidence From The Baltic Dry Index And Panel Regressions With Cross-Sectional Dependence", with [Nicholas Sim](https://sites.google.com/view/nicholassim/home)
+
+"Child Mortality in the LDCs: The Role of Trade, Institutions and Environmental Quality", with [Faqin Lin](https://linfaqin.weebly.com/) and [Nicholas Sim](https://sites.google.com/view/nicholassim/home), School of Economics Working Papers 2015-15, University of Adelaide, School of Economics.
+- Abstract: Child mortality is a persistent problem for the world's least developed countries (LDCs). Given that trade fosters economic development, one plausible solution is to raise the low levels oftrade in the LDCs, but how effective this approach might be could depend on the quality of institutions. In this paper, we use a novel instrumental variable approach to estimate the effect that trade might have on child mortality in the LDCs. We find that trade does not lead to lower levels of child mortality. In fact, in autocratic LDCs, trade could even cause child mortality to increase as we find that pollution, which adversely affects health, may rise with trade.
+- Ungated working paper: [Here](https://ideas.repec.org/p/adl/wpaper/2015-15.html)
 
 # Panel Data Applications
-- ["Does Political and Economic Inequality affect Institutional Quality?"](https://onlinelibrary.wiley.com/doi/full/10.1111/1475-4932.12246), with [Nadezhda Baryshnikova](https://researchers.adelaide.edu.au/profile/nadezhda.baryshnikova) and Maria Wihardja, The *Economic Record*, 92(297), pp 190-208, 2016.
-- "Panel Data Quantile Regression with Two-Way Fixed Effects",  with [Nicholas Sim](https://sites.google.com/view/nicholassim/home), under review, 03/2019.
-- ["Does the Rice for Poor subsidy reduce child marriage?"](https://ies.keio.ac.jp/upload/20181026appliedpaper-1.pdf), with [Nadezhda Baryshnikova](https://www.adelaide.edu.au/directory/nadezhda.baryshnikova) and [Nicholas Sim](https://sites.google.com/view/nicholassim/home), 10/2018.
+["Does Political and Economic Inequality affect Institutional Quality?"](https://onlinelibrary.wiley.com/doi/full/10.1111/1475-4932.12246), with [Nadezhda Baryshnikova](https://researchers.adelaide.edu.au/profile/nadezhda.baryshnikova) and Maria Wihardja, The *Economic Record*, 92(297), pp 190-208, 2016.
+
+"Panel Data Quantile Regression with Two-Way Fixed Effects",  with [Nicholas Sim](https://sites.google.com/view/nicholassim/home), under review, 03/2019.
+
+"Does the Rice for Poor subsidy reduce child marriage?", with [Nadezhda Baryshnikova](https://www.adelaide.edu.au/directory/nadezhda.baryshnikova) and [Nicholas Sim](https://sites.google.com/view/nicholassim/home), 10/2018.
+- Abstract:
+- Ungated working paper: [Here](https://ies.keio.ac.jp/upload/20181026appliedpaper-1.pdf)
 
 # Health Economics
 "Population Diversity, Trust, and the Transmission of HIV/AIDS in Sub-Saharan Africa", with Pide Lun and [Nicholas Sim](https://sites.google.com/view/nicholassim/home)
-
-"Child Mortality in the LDCs: The Role of Trade, Institutions and Environmental Quality", with [Faqin Lin](https://linfaqin.weebly.com/) and [Nicholas Sim](https://sites.google.com/view/nicholassim/home)
-- Abstract: Child mortality is a persistent problem for the world's least developed countries (LDCs). Given that trade fosters economic development, one plausible solution is to raise the low levels oftrade in the LDCs, but how effective this approach might be could depend on the quality of institutions. In this paper, we use a novel instrumental variable approach to estimate the effect that trade might have on child mortality in the LDCs. We find that trade does not lead to lower levels of child mortality. In fact, in autocratic LDCs, trade could even cause child mortality to increase as we find that pollution, which adversely affects health, may rise with trade.
-- Ungated working paper: [Here](https://ideas.repec.org/p/adl/wpaper/2015-15.html)
 
 *Income-based mandates on the demand for private hospital insurance and its dynamics*, with [Terence Cheng](https://terencechaicheng.wordpress.com/), Thomas Buchmueller and Kevin Staub, Research in progress. 
 
