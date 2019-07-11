@@ -29,6 +29,12 @@ title: Research
 - ["Does the Rice for Poor subsidy reduce child marriage?"](https://ies.keio.ac.jp/upload/20181026appliedpaper-1.pdf), with [Nadezhda Baryshnikova](https://www.adelaide.edu.au/directory/nadezhda.baryshnikova) and [Nicholas Sim](https://sites.google.com/view/nicholassim/home), 10/2018.
 
 # Health Economics
-- "Population Diversity, Trust, and the Transmission of HIV/AIDS in Sub-Saharan Africa", with Pide Lun and [Nicholas Sim](https://sites.google.com/view/nicholassim/home)
-- *Income-based mandates on the demand for private hospital insurance and its dynamics*, with [Terence Cheng](https://terencechaicheng.wordpress.com/), Thomas Buchmueller and Kevin Staub, Research in progress. 
-- *Happiness and Refugees Settlement*, with [Firmin Doko Tchatoka](https://researchers.adelaide.edu.au/profile/firmin.dokotchatoka) and [Nadezhda Baryshnikova](https://researchers.adelaide.edu.au/profile/nadezhda.baryshnikova), Research in progress.
+"Population Diversity, Trust, and the Transmission of HIV/AIDS in Sub-Saharan Africa", with Pide Lun and [Nicholas Sim](https://sites.google.com/view/nicholassim/home)
+
+"Child Mortality in the LDCs: The Role of Trade, Institutions and Environmental Quality", with [Faqin Lin](https://linfaqin.weebly.com/) and [Nicholas Sim](https://sites.google.com/view/nicholassim/home)
+- Abstract: Child mortality is a persistent problem for the worldÂ’s least developed countries (LDCs). Given that trade fosters economic development, one plausible solution is to raise the low levels oftrade in the LDCs, but how effective this approach might be could depend on the quality of institutions. In this paper, we use a novel instrumental variable approach to estimate the effect that trade might have on child mortality in the LDCs. We find that trade does not lead to lower levels of child mortality. In fact, in autocratic LDCs, trade could even cause child mortality to increase as we find that pollution, which adversely affects health, may rise with trade.
+- Ungated working paper: [Here](https://ideas.repec.org/p/adl/wpaper/2015-15.html)
+
+*Income-based mandates on the demand for private hospital insurance and its dynamics*, with [Terence Cheng](https://terencechaicheng.wordpress.com/), Thomas Buchmueller and Kevin Staub, Research in progress. 
+
+*Happiness and Refugees Settlement*, with [Firmin Doko Tchatoka](https://researchers.adelaide.edu.au/profile/firmin.dokotchatoka) and [Nadezhda Baryshnikova](https://researchers.adelaide.edu.au/profile/nadezhda.baryshnikova), Research in progress.
