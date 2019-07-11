@@ -5,6 +5,7 @@ email: ngoc.t.pham@adelaide.edu.au
 description: Research Fellow at University of Adelaide
 #twitter_username: jekyllrb
 github_username:  anhpham-econ
+url: https://anhpham-econ.github.io/about-me/
 
 # Build settings
 markdown: kramdown
