@@ -3,7 +3,7 @@
 Anh's current research activities are in understanding how social and economic public policy can be enhanced by evidence generated from the application of novel analytical strategies to diverse data. She has expertise in econometric modelling using nationally representative household-based longitudinal survey (e.g. HILDA, IFLS) and large-scale administrative dataset (e.g. PIA)
 
 # Research opportunities
-If you are undergraduate students and interested in pursuing research studies in the near future, you can apply for the Adelaide Summer Research Scholarship (ASRS) program. Possible projects can be found [here](https://ecms.adelaide.edu.au/news/list/2019/07/08/adelaide-summer-research-scholarships-applications-now-open?fbclid=IwAR1ndWKVIT9VGjX_XaXLM8Mc6sL0ES64MXqjBBBkx5UMJ6_DvZLVqTB_8gM) and [here](https://www.adelaide.edu.au/professions/students/summer-research-scholarships). Deadline **5pm 20 September 2019**
+If you are undergraduate students and interested in pursuing research studies in the near future, you can apply for the Adelaide Summer Research Scholarship (ASRS) program. Possible projects can be found [here](https://ecms.adelaide.edu.au/news/list/2019/07/08/adelaide-summer-research-scholarships-applications-now-open?fbclid=IwAR1ndWKVIT9VGjX_XaXLM8Mc6sL0ES64MXqjBBBkx5UMJ6_DvZLVqTB_8gM) and [here](https://www.adelaide.edu.au/professions/students/summer-research-scholarships). Deadline **20 September 2019**
 
 # News
 **2019**
