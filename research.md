@@ -4,9 +4,9 @@ title: Research
 ---
 
 *Ungated working paper versions of my published papers can be downloaded, where available*
-
-# Housing
-["Natural Disasters and Mental Health: A Quantile Approach"](https://www.sciencedirect.com/science/article/pii/S0165176519301387), with [Nadezhda Baryshnikova](https://researchers.adelaide.edu.au/profile/nadezhda.baryshnikova), *Economics Letters*, 180, pp 62-66, 2019. 
+<details>
+           <summary># Housing</summary>
+           <p>["Natural Disasters and Mental Health: A Quantile Approach"](https://www.sciencedirect.com/science/article/pii/S0165176519301387), with [Nadezhda Baryshnikova](https://researchers.adelaide.edu.au/profile/nadezhda.baryshnikova), *Economics Letters*, 180, pp 62-66, 2019. 
 - **Abstract**: This article investigates heterogeneity in the effect of experiencing natural disasters on mental health. Using Australian longitudinal data, we find that home owners generally show a reduction in mental health score after a disaster. There is a strong negative effect in the lowest two quantiles of the distribution for non-owners.
 - **Ungated working paper**: [Here](https://github.com/anhpham-econ/about-me/blob/master/papers/Disaster_MentalHealth.pdf).
 - **Early working paper**: [Here](https://ideas.repec.org/p/adl/wpaper/2018-13.html)
@@ -17,7 +17,10 @@ title: Research
 
 *More than just climate*, with [Lyrian Daniel](https://researchers.adelaide.edu.au/profile/lyrian.daniel), [Emma Baker](https://researchers.adelaide.edu.au/profile/emma.baker) and Andrew Beer, Research in progress.
 
-*Dynamics of household demand for renewable energy infrastructure*, with [Lyrian Daniel](https://researchers.adelaide.edu.au/profile/lyrian.daniel), Research in progress.
+*Dynamics of household demand for renewable energy infrastructure*, with [Lyrian Daniel](https://researchers.adelaide.edu.au/profile/lyrian.daniel), Research in progress.</p>
+         </details>
+
+
 
 # International Trade and Development
 "Shipping Cost and Development of the LLDCs: Panel Evidence from the Common Correlated Effects Approach", with [Nicholas Sim](https://sites.google.com/view/nicholassim/home), accepted, *World Economy*, 05/2019.
